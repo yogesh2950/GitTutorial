@@ -2,4 +2,9 @@ error.log
 
 *.log
 
+# dir/
+
+# /dir/
+
 dir/
+static/dir
