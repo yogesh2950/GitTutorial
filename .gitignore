@@ -6,5 +6,7 @@ error.log
 
 # /dir/
 
-dir/
+/dir/
 static/dir
+
+db.accdb
